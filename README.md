@@ -1,5 +1,8 @@
 # Reading Notes
 
+> If a man hasn't found something he's not willing to die for, he's not fit to live.
+> - Dr. Martin Luther King
+
 ## Cool Stuff About John
 
 - John is bald
