@@ -1,4 +1,4 @@
 # Reading Notes
 
-John Is Bald
+## Cool Stuff About John
 
