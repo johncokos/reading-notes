@@ -3,20 +3,13 @@
 > If a man hasn't found something he's not willing to die for, he's not fit to live.
 > - Dr. Martin Luther King
 
-## Cool Stuff About John
+## Code 102
 
-- John is bald
-- John *plays* **bass**
-- John teaches coding
-- John plays craps
-  - And Roulette 
+- [Class 02](./code-102/class-02.md)
+- [Class 03](./code-102/class-03.md)
 
-### Meet John's Family
+## Code 201
 
-1. Cathy
-1. Zach
-   1. Milo
-   1. Chloe
-1. Allie
-1. Rosie
-1. Geno
+## Code 301
+
+## Code 401
