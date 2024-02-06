@@ -15,8 +15,8 @@
 
 1. Cathy
 1. Zach
-   - Milo
-   - Chloe
+   1. Milo
+   1. Chloe
 1. Allie
 1. Rosie
 1. Geno
